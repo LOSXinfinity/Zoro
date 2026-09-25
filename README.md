@@ -125,7 +125,7 @@ Works in all modern browsers (Chrome, Edge, Firefox, Safari). Best experienced o
 
 ## ⚠️ Disclaimer
 
-This is a **non-commercial fan project**. Roronoa Zoro and One Piece are the property of **Eiichiro Oda, Shueisha, and Toei Animation**. All character artwork belongs to its respective owners. The code is free to learn from and remix.
+This is a **non-commercial fan project**. Roronoa Zoro and One Piece are the property of **Eiichiro Oda, and Toei Animation**. All character artwork belongs to its respective owners. The code is free to learn from and remix.
 
 ---
 
@@ -135,7 +135,7 @@ If this project helped or inspired you:
 
 - ⭐ Star this repo
 - 🍴 Fork it and build your own character page
-- 📸 Follow me on Instagram for more builds
+- 📸 Follow me on Instagram for more builds :[https://www.instagram.com/jahid_mahin/](url)
 
 *Forged in Wano.* 🌊⚡
 
@@ -251,7 +251,7 @@ This is a learning/portfolio piece, but PRs welcome for:
 
 **Assets** (`frames/`, `img/`, `video/`): **Not licensed for reuse**. These are fan-art / screenshots from One Piece. Replace with your own artwork before publishing derivatives.
 
-**Character IP**: Roronoa Zoro, One Piece © Eiichiro Oda / Shueisha / Toei Animation. This project is non-commercial transformative work.
+**Character IP**: Roronoa Zoro, One Piece © Eiichiro Oda/ Toei Animation. This project is non-commercial transformative work.
 
 ---
 
